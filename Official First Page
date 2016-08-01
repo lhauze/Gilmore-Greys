@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+  body{
+ 	background-image: url(http://cdn.pcwallart.com/images/pastel-color-gradient-wallpaper-1.jpg);
+ }
+  h1{
+  	color: black;
+  	text-align: center;
+  	font-family: helvetica;
+  	font-size: 70px;
+  	}
+   p{
+   	font-family: helvetica ;
+    font-size: 26px;
+    text-align: center;
+  }
+  h2{
+    font-size: 20px;
+    font-family: helvetica;
+  }
+  img{
+    width: 700px
+    </style>
+  
+  
+<title>Mind-Boggling Facts About Gender Inequality</title>
+
+</head>
+<body>
+
+<h1>Mind-Boggling Facts About Gender Inequality</h1>
+
+<center><img src="https://s-media-cache-ak0.pinimg.com/236x/02/01/59/0201590feecc56a11e2b26424b1a9a78.jpg"</center>
+
+<p>1. Women make up 46% of the total U.S. labor force. </p>
+
+<p>2. Women make only 77.5 cents for every dollar that men earn.</p>
+
+<p>3. Women in professional specialty occupations were found to earn just 72.7% of what men in the same position earned.</p>
+
+<p>4. Women may work longer to receive the promotions that provide access to higher pay.</p>
+
+<p>5. Women business owners employ 35% more people than all the Fortune 500 companies combined.</p>
+
+<h2>"10 Surprising Statistics on Women in the Workplace." CollegeTimes. 2010. Web. 25 July 2016."</h2>
+</body>
+</html>
