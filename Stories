@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<style type="text/css">
+		body{
+			background-image: url("http://cdn.pcwallart.com/images/pastel-color-gradient-wallpaper-1.jpg");}
+
+		h1{
+			text-align: center;
+			font-size: 50px;
+		}
+		p{
+			font-family: helvetica;
+			font-size:25px;
+			text-align: center;
+		}
+		img{
+			width: 500px;
+			height: 300px;
+		}
+		h2{
+			text-align: center;
+			font-size: 20px;
+			font-family: helvetica
+		}
+		input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+	</style>
+</head>
+<title>MindtheGap</title>
+<body> 
+
+<h1>Stories</h1>
+<center><img src="http://media-cache-ec0.pinimg.com/736x/07/97/dd/0797dd929ba6c522ccbf2920fd70fb1f.jpg"></center>
+<p> Cheryl Hughes is a divorced mother of two who received an engineering degree. She lost more than $1 million in earnings throughout her career as an engineer because she is an African American woman. </p>
+
+<p> Maxine Lampe was a public school teacher. In hopes of raising her salary she tried to negotiate and one of the board members told her, "You don't need as much pay because your husband is a professor and you have enough money." </p>
+
+<p> Anastasia Engebretson found out when she arrived for work as a technician that a few men with less education and less relevant experience had negotiated for more pay. "I have a bachelor' degree in physics," Engebretson said. "This guy who hadn't gone to college and couldn't do mental math was getting paid more." </p>
+
+<h2>Source: http://www.aauw.org/2014/03/27/personal-stories-of-the-gender-pay-gap/ </h2>
+<div>
+  <form action="action_page.php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname">
+
+    <label for="story">Share Your Story</label>
+    <input type="text" id="story" name="shareyourstory">
+  
+    <input type="submit" value="Submit">
+  </form>
+</div>
+</body> 
+</html>
